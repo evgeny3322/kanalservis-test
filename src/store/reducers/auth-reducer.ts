@@ -10,7 +10,7 @@ export type AuthSlice ={
 
 const initialState: AuthSlice = {
     auth: '',
-    login: 'kanal',
+    login: 'test',
     password: 'test',
     inputLogin: '',
     inputPassword: '',
