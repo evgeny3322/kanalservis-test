@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import AuthPage from "../components/Pages/AuthPage/AuthPage";
 import NotFound from "../components/Pages/NotFound/NotFound";
