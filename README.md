@@ -9,6 +9,8 @@ Kanalservis
 4) Styled Component
 5) Axios
 
+4 hour 
+
 ## Getting Started
 
 Clone this repository:
