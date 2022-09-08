@@ -1,6 +1,6 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 
-export type AuthSlice ={
+export type AuthType ={
     auth: string
     login?: string
     password?: string
@@ -8,7 +8,7 @@ export type AuthSlice ={
     inputPassword?: string
 }
 
-const initialState: AuthSlice = {
+const initialState: AuthType = {
     auth: '',
     login: 'test',
     password: 'test',
