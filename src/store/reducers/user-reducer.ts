@@ -5,6 +5,7 @@ import {api} from "../../api/api";
 
 export type UserItem = {
     id: number
+    title:string
     name: string
     username: string
     email: string
