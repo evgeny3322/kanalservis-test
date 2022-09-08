@@ -2,7 +2,6 @@ import {AxiosError, AxiosResponse} from 'axios';
 import {createAsyncThunk, createSlice, PayloadAction} from "@reduxjs/toolkit";
 import {api} from "../../api/api";
 
-
 export type UserItem = {
     id: number
     title:string
